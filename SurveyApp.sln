@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurveyApp.Web", "SurveyApp.Web\SurveyApp.Web.csproj", "{B8D9254E-0A9C-446A-8368-4D10D578B281}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurveyApp.Model", "SurveyApp.Model\SurveyApp.Model.csproj", "{766D43EE-12DF-4654-BDF6-187B6DD493C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurveyApp.DAL", "SurveyApp.DAL\SurveyApp.DAL.csproj", "{80C730A5-A3DB-4FB1-A424-A2BB427BA5C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D9254E-0A9C-446A-8368-4D10D578B281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D9254E-0A9C-446A-8368-4D10D578B281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D9254E-0A9C-446A-8368-4D10D578B281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D9254E-0A9C-446A-8368-4D10D578B281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{766D43EE-12DF-4654-BDF6-187B6DD493C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766D43EE-12DF-4654-BDF6-187B6DD493C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766D43EE-12DF-4654-BDF6-187B6DD493C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766D43EE-12DF-4654-BDF6-187B6DD493C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80C730A5-A3DB-4FB1-A424-A2BB427BA5C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C730A5-A3DB-4FB1-A424-A2BB427BA5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C730A5-A3DB-4FB1-A424-A2BB427BA5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C730A5-A3DB-4FB1-A424-A2BB427BA5C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
